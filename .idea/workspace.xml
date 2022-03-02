@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="026a465f-7f4c-4df5-8ed9-821bcaf65cfe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eas.json" beforeDir="false" afterPath="$PROJECT_DIR$/eas.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wCyf5GbZ8SIPkkes4NWaJ1CdsP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PHP-Storm\Ci-Workspace\Branch\QSAppTimerecordingV2\screens" />
+      <recent name="C:\PHP-Storm\Ci-Workspace\Branch\QSAppV2\screens" />
+      <recent name="C:\PHP-Storm\Ci-Workspace\Branch\QSAppV2\assets\imgs" />
+      <recent name="C:\PHP-Storm\Ci-Workspace\Branch\QSAppV2\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PHP-Storm\Ci-Workspace\Branch\QSAppV2\assets\imgs" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="HJSADUADJAHSDJAHAÖASDHF    HADSHHHKD" />
+    </option>
+  </component>
+  <component name="RunManager" selected="React Native.QSApp">
+    <configuration name="C:/PHP-Storm/Ci-Workspace/Branch/QSAppTimerecordingV2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="QSApp" type="ReactNative" factoryName="React Native">
+      <node-interpreter value="project" />
+      <react-native value="$PROJECT_DIR$/node_modules/react-native" />
+      <platform value="ANDROID" />
+      <envs />
+      <only-packager />
+      <browser value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <method v="2">
+        <option name="ReactNativePackager" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.C:/PHP-Storm/Ci-Workspace/Branch/QSAppTimerecordingV2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="026a465f-7f4c-4df5-8ed9-821bcaf65cfe" name="Default Changelist" comment="" />
+      <created>1627976971408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627976971408</updated>
+      <workItem from="1627976972779" duration="25000" />
+      <workItem from="1627977026060" duration="484000" />
+      <workItem from="1627977823379" duration="1412000" />
+      <workItem from="1627979338473" duration="21045000" />
+      <workItem from="1628057565320" duration="15864000" />
+      <workItem from="1628142886870" duration="2496000" />
+      <workItem from="1628231267530" duration="15162000" />
+      <workItem from="1628488739935" duration="22552000" />
+      <workItem from="1628574885641" duration="19477000" />
+      <workItem from="1628672751503" duration="13388000" />
+      <workItem from="1628747999199" duration="20528000" />
+      <workItem from="1628834601445" duration="17727000" />
+      <workItem from="1629093175298" duration="20170000" />
+      <workItem from="1629179908950" duration="16235000" />
+      <workItem from="1629266230478" duration="12917000" />
+      <workItem from="1629356623533" duration="11910000" />
+      <workItem from="1629439234172" duration="5377000" />
+      <workItem from="1629462406395" duration="3356000" />
+      <workItem from="1629698530808" duration="2758000" />
+      <workItem from="1629785876961" duration="5419000" />
+      <workItem from="1629872176320" duration="6716000" />
+      <workItem from="1629958364901" duration="10989000" />
+      <workItem from="1630476431199" duration="5624000" />
+      <workItem from="1630566589098" duration="9484000" />
+      <workItem from="1630649096318" duration="9138000" />
+      <workItem from="1630908585331" duration="8509000" />
+      <workItem from="1630994408375" duration="6474000" />
+      <workItem from="1631080605292" duration="27917000" />
+      <workItem from="1631166752267" duration="9087000" />
+      <workItem from="1631253811859" duration="3014000" />
+      <workItem from="1631512678077" duration="1201000" />
+      <workItem from="1631600595504" duration="1834000" />
+      <workItem from="1631685711588" duration="597000" />
+      <workItem from="1631695247972" duration="589000" />
+      <workItem from="1632290462380" duration="21000" />
+      <workItem from="1632308013242" duration="6234000" />
+      <workItem from="1632467094107" duration="3258000" />
+      <workItem from="1632727276783" duration="3043000" />
+      <workItem from="1632756314628" duration="484000" />
+      <workItem from="1632808889921" duration="3249000" />
+      <workItem from="1632905005387" duration="2554000" />
+      <workItem from="1632981387552" duration="4556000" />
+      <workItem from="1633073541090" duration="5501000" />
+      <workItem from="1633326827515" duration="8912000" />
+      <workItem from="1633412573713" duration="8230000" />
+      <workItem from="1633499785649" duration="1811000" />
+      <workItem from="1633586520330" duration="5207000" />
+      <workItem from="1633680001662" duration="60000" />
+      <workItem from="1633932012662" duration="1527000" />
+      <workItem from="1634190689056" duration="15589000" />
+      <workItem from="1634885635671" duration="644000" />
+      <workItem from="1635247012065" duration="2728000" />
+      <workItem from="1635922699622" duration="3442000" />
+      <workItem from="1636443613960" duration="905000" />
+      <workItem from="1636447025472" duration="60000" />
+      <workItem from="1636630543487" duration="3113000" />
+      <workItem from="1636714576645" duration="3270000" />
+      <workItem from="1637132432868" duration="1463000" />
+      <workItem from="1637569936277" duration="3542000" />
+      <workItem from="1637822993170" duration="595000" />
+      <workItem from="1640072710368" duration="594000" />
+      <workItem from="1641453564529" duration="3365000" />
+      <workItem from="1641558001124" duration="3277000" />
+      <workItem from="1641821209631" duration="8757000" />
+      <workItem from="1641884800292" duration="10661000" />
+      <workItem from="1641974926660" duration="6829000" />
+      <workItem from="1642060797032" duration="11357000" />
+      <workItem from="1642145742706" duration="1195000" />
+      <workItem from="1642406038853" duration="696000" />
+      <workItem from="1643612836451" duration="600000" />
+      <workItem from="1643903225995" duration="453000" />
+      <workItem from="1645774699588" duration="1191000" />
+      <workItem from="1646127806437" duration="1639000" />
+      <workItem from="1646225360224" duration="1887000" />
+      <workItem from="1646292191867" duration="795000" />
+      <workItem from="1646377188618" duration="2538000" />
+      <workItem from="1646636052950" duration="1193000" />
+      <workItem from="1646723428084" duration="595000" />
+      <workItem from="1646739870615" duration="595000" />
+      <workItem from="1647241426272" duration="595000" />
+      <workItem from="1647327899447" duration="610000" />
+      <workItem from="1647356857701" duration="4000" />
+      <workItem from="1664365672300" duration="1186000" />
+      <workItem from="1664863661967" duration="895000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

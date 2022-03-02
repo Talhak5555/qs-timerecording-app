@@ -1,0 +1,18 @@
+{
+  "cli": {
+    "version": ">= 0.34.0"
+  },
+
+    "production": {
+      "android": {
+        "serviceAccountKeyPath": "./google-account.json",
+        "track": "internal"
+      },
+      "ios": {
+        "appleId": "hedigoj533@upsdom.com",
+        "ascAppId": "1594884392",
+        "appleTeamId": "VJ5TZVPRLR"
+      }
+    }
+
+}

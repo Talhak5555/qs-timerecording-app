@@ -1,0 +1,59 @@
+{
+  "expo": {
+    "name": "Quicksteps Zeiterfassung",
+    "slug": "quicksteps-timerecording-app",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "2.0.41",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "backgroundColor": "#282d38",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#005cb9"
+    },
+    "updates": {
+      "enabled": true,
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.quicksteps.quicksteps-timerecording",
+      "backgroundColor": "#282d38"
+    },
+    "description": "Quicksteps",
+    "android": {
+      "versionCode": 2,
+      "softwareKeyboardLayoutMode": "pan",
+      "package": "com.quicksteps.quicksteps_timerecording",
+      "backgroundColor": "#282d38",
+      "permissions": ["ACCESS_BACKGROUND_LOCATION","ACCESS_FINE_LOCATION","ACCESS_NETWORK_STATE","ACCESS_MEDIA_LOCATION","MANAGE_MEDIA","ACCESS_WIFI_STATE","CAMERA"]
+    },
+    "plugins": [
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Allow $(PRODUCT_NAME) to access your photos.",
+          "savePhotosPermission": "Allow $(PRODUCT_NAME) to save photos.",
+          "isAccessMediaLocationEnabled": "true"
+        }
+      ],
+      ["expo-camera",{
+        "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera",
+        "microphonePermission": "Allow $(PRODUCT_NAME) to access your microphone"
+      }],
+      ["expo-location",{
+        "isIosBackgroundLocationEnabled": true,
+        "isAndroidBackgroundLocationEnabled": true
+      }]
+    ],
+    "userInterfaceStyle": "dark"
+  }
+}
