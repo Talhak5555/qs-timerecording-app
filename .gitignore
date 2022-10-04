@@ -8,3 +8,4 @@ yarn.lock
 *.key
 *.mobileprovision
 google-account.json
+eas.json
