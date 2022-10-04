@@ -1,5 +1,6 @@
 {
   "expo": {
+    "owner": "quicksteps",
     "name": "Quicksteps Zeiterfassung",
     "slug": "quicksteps-timerecording-app",
     "privacy": "public",
