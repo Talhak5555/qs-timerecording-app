@@ -27,7 +27,11 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.quicksteps.quicksteps-timerecording",
-      "backgroundColor": "#282d38"
+      "backgroundColor": "#282d38",
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "Allow $(PRODUCT_NAME) to access your photos.",
+        "NSPhotoLibraryAddUsageDescription": "Allow $(PRODUCT_NAME) to save photos."
+      }
     },
     "description": "Quicksteps",
     "android": {
@@ -35,7 +39,24 @@
       "softwareKeyboardLayoutMode": "pan",
       "package": "com.quicksteps.quicksteps_timerecording",
       "backgroundColor": "#282d38",
-      "permissions": ["ACCESS_BACKGROUND_LOCATION","ACCESS_FINE_LOCATION","ACCESS_NETWORK_STATE","ACCESS_MEDIA_LOCATION","MANAGE_MEDIA","ACCESS_WIFI_STATE","CAMERA"]
+      "permissions": [
+        "ACCESS_BACKGROUND_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_NETWORK_STATE",
+        "ACCESS_MEDIA_LOCATION",
+        "MANAGE_MEDIA",
+        "ACCESS_WIFI_STATE",
+        "CAMERA",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "true",
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.ACCESS_BACKGROUND_LOCATION"
+      ]
     },
     "plugins": [
       [
@@ -46,15 +67,26 @@
           "isAccessMediaLocationEnabled": "true"
         }
       ],
-      ["expo-camera",{
-        "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera",
-        "microphonePermission": "Allow $(PRODUCT_NAME) to access your microphone"
-      }],
-      ["expo-location",{
-        "isIosBackgroundLocationEnabled": true,
-        "isAndroidBackgroundLocationEnabled": true
-      }]
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera",
+          "microphonePermission": "Allow $(PRODUCT_NAME) to access your microphone"
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "isIosBackgroundLocationEnabled": true,
+          "isAndroidBackgroundLocationEnabled": true
+        }
+      ]
     ],
-    "userInterfaceStyle": "dark"
+    "userInterfaceStyle": "dark",
+    "extra": {
+      "eas": {
+        "projectId": "6bf15514-00a0-433b-bbef-edc68e7c5651"
+      }
+    }
   }
 }
