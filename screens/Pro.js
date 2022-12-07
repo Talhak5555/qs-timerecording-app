@@ -243,7 +243,7 @@ export default class Pro extends React.Component {
         application_name: Constants.manifest.slug,
         device: this.state.props.deviceData
       };
-      fetch('https://talhak.quicksteps.ch/qsapi/apps/checkCodeV2', {
+      fetch('https://testwildcard2.quicksteps.ch/qsapi/apps/checkCodeV2', {
         method: 'POST',
         headers: {
           'Accept': 'application/json',
