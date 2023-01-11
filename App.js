@@ -10,6 +10,7 @@ import * as Device from 'expo-device';
 import * as Network from 'expo-network';
 import Constants from 'expo-constants';
 import './constants/global';
+import { requestTrackingPermissionsAsync } from 'expo-tracking-transparency';
 
 LogBox.ignoreLogs(['Setting a timer']);
 // Before rendering any navigation stack
@@ -136,6 +137,11 @@ export default class App extends React.Component {
 
     await setStorage('@camera_status',JSON.stringify(camera_status))
     await setStorage('@loacation_status',JSON.stringify(loacation_status))
+
+    const { status } = await requestTrackingPermissionsAsync();
+    if (status === 'granted') {
+      console.log('Yay! I have user permission to track data');
+    }
 
     /*
     const locinterval =setInterval(async function (){
