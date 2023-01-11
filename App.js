@@ -139,9 +139,7 @@ export default class App extends React.Component {
     await setStorage('@loacation_status',JSON.stringify(loacation_status))
 
     const { status } = await requestTrackingPermissionsAsync();
-    if (status === 'granted') {
-      console.log('Yay! I have user permission to track data');
-    }
+
 
     /*
     const locinterval =setInterval(async function (){
