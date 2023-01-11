@@ -5,7 +5,7 @@
     "slug": "quicksteps-timerecording-app",
     "privacy": "public",
     "platforms": ["ios", "android"],
-    "version": "2.0.42",
+    "version": "2.0.43",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "backgroundColor": "#282d38",
@@ -28,6 +28,7 @@
         "NSPhotoLibraryAddUsageDescription": "Allow $(PRODUCT_NAME) to save photos.",
         "NSLocationWhenInUseUsageDescription": "The app needs access to your location to track your records and activities in foreground",
         "NSLocationAlwaysUsageDescription": "The app needs access to your location to track your records and activities in background",
+        "NSUserTrackingUsageDescription ": "Allow this app to collect app-related data that can be used for tracking you or your device",
         "NSCameraUsageDescription": "$(PRODUCT_NAME) needs access to the camera to take photos for the user to track their records"
       },
       "buildNumber": "6"
